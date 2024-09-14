@@ -237,7 +237,7 @@ div.social-icon {
  
 .image-social:hover {
   background-color: #ebeaea;
-  border-radius: 7.5%;
+  border-radius: 25%;
 }
 
 /* footer */
@@ -269,6 +269,6 @@ span {
 
 .link-copy:hover {
   padding: 7px 17px;
-  background-color:#a8a8a8;  
+  background-color:#3b3b3b;  
   border-radius: 12px;
 }
