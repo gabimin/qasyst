@@ -73,10 +73,4 @@ If you would like to contribute to this project, please follow these steps:
 3. Make your changes and commit them with a descriptive message.
 4. Submit a pull request.
 
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
-
----
-
 Feel free to adjust or expand the sections depending on additional details you'd like to include!
